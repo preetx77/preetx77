@@ -1,5 +1,9 @@
 <!-- Profile README for preetx77 -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Neon Animated Banner"/>
+</p>
+
 <h1 align="center">Hey 👋, I'm Preet</h1>
 <h3 align="center">🚀 Developer | 💡 Learner | 🎨 Creative Coder</h3>
 
@@ -31,9 +35,10 @@
 
 ---
 
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/preetx77/preetx77/blob/output/snake.svg)
-
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=preetx77&theme=radical&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
@@ -54,8 +59,11 @@
 - 💻 **Profile Views**  
   ![Profile Views](https://komarev.com/ghpvc/?username=preetx77&color=blueviolet&style=flat-square)
 
-- 📈 **Activity Graph**  
+- 📈 **Contribution Activity**  
   [![Preet’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preetx77&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+- ✨ **Random Dev Quote**  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
