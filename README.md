@@ -32,9 +32,8 @@
 ---
 
 ## 🐍 Contribution Graph  
-<p align="center">
-  <img src="https://github.com/preetx77/preetx77/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+![Snake animation](https://github.com/preetx77/preetx77/blob/output/snake.svg)
+
 
 ---
 
