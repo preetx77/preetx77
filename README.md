@@ -1,14 +1,14 @@
 <!-- Profile README for preetx77 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Neon Animated Banner"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Banner"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Preet</h1>
 <h3 align="center">🚀 Developer | 💡 Learner | 🎨 Creative Coder</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)" width="35px"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
   Welcome to my GitHub profile!  
 </p>
 
@@ -31,13 +31,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetx77&layout=compact&theme=radical&hide_border=true" height="150px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetx77&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -65,6 +58,9 @@
 - ✨ **Random Dev Quote**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+- 🔥 **Fun Heatmap Style Card**  
+  ![Preet's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=preetx77&theme=radical)
+  
 ---
 
 <h3 align="center">✨ Thanks for visiting ✨</h3>
