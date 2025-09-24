@@ -58,8 +58,10 @@
 - ✨ **Random Dev Quote**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔹 **Followers Badge**  
-  ![Followers](https://img.shields.io/github/followers/preetx77?label=Followers&style=for-the-badge)
+- 🔥 **3D Contribution Graph**  
+<p align="center">
+  <img src="https://github-readme-3d-activity-graph.vercel.app/graph?username=preetx77&theme=radical&hide_border=true" alt="3D GitHub Activity Graph" width="90%"/>
+</p>
 
   
 ---
