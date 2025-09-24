@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Developer | 💡 Learner | 🎨 Creative Coder</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)" width="35px"> 
   Welcome to my GitHub profile!  
 </p>
 
