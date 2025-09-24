@@ -58,8 +58,9 @@
 - ✨ **Random Dev Quote**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔥 **Fun Heatmap Style Card**  
-  ![Preet's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=preetx77&theme=radical)
+- 🔹 **Followers Badge**  
+  ![Followers](https://img.shields.io/github/followers/preetx77?label=Followers&style=for-the-badge)
+
   
 ---
 
