@@ -9,18 +9,18 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Welcome to my GitHub profile!  
+  Welcome to my GitHub profile!
 </p>
 
 ---
 
-## About Me  
+## 🌟 About Me  
 
--  Building and maintaining **full-stack applications** using **Next.js, React, Node.js**, and modern tooling  
--  Actively working on **quantitative analysis**, **market/strategy research**, **AI-powered integrations**, and **advanced Python workflows**  
--  Strong interest in **data analysis, financial modeling, simulations, and visual analytics**  
--  Passionate about crafting **clean UI systems** backed by **robust logic and data-driven insights**  
--  Focus: *Design with intent. Build with depth. Scale with clarity.*
+- Building and maintaining **full-stack applications** using **Next.js, React, Node.js**, and modern tooling  
+- Actively working on **quantitative analysis**, **market/strategy research**, **AI-powered integrations**, and **advanced Python workflows**  
+- Strong interest in **data analysis, financial modeling, simulations, and visual analytics**  
+- Passionate about crafting **clean UI systems** backed by **robust logic and data-driven insights**  
+- Focus: *Design with intent. Build with depth. Scale with clarity.*
 
 ---
 
@@ -49,25 +49,33 @@
 
 ---
 
-## 🎨 Fun Additions  
+## 🚀 Project Metrics & Impact  
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/preetx77?template=classic&base.header=0&base.metadata=0&repositories=true&repositories.forks=true&repositories.stars=true&languages=true" width="90%"/>
+</p>
+
+---
+
+## 📌 Featured Work  
+
+- 📊 **Quant Strategy & Backtesting** – Market simulations, Monte Carlo analysis, risk metrics  
+- 🌐 **Full-Stack Dashboards** – Next.js applications with API integrations and analytics  
+- 🤖 **AI & Automation Tools** – Python-based data pipelines and intelligent workflows  
+
+---
+
+## 🎨 Extras  
 
 - 💻 **Profile Views**  
   ![Profile Views](https://komarev.com/ghpvc/?username=preetx77&color=blueviolet&style=flat-square)
 
-- 📈 **Contribution Activity**  
-  [![Preet’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preetx77&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 - ✨ **Random Dev Quote**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔥 3D Contribution Graph
-<p align="center">
- ![Metrics](https://metrics.lecoq.io/preetx77?template=classic&base.header=0&base.metadata=0&repositories.forks=true&repositories.stars=true&repositories=true&languages=true)
-
-</p>
-
-  
 ---
 
 <h3 align="center">✨ Thanks for visiting ✨</h3>
-<p align="center">Let’s connect & build something awesome 🚀</p>
+<p align="center">
+Always open to collaborating on meaningful projects — whether it’s <b>systems</b>, <b>data</b>, or <b>ideas</b>.
+</p>
