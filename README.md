@@ -14,11 +14,13 @@
 
 ---
 
-### 🌟 About Me  
-- 🔭 Currently exploring **Fullstack Web Development (Next.js, React, Node.js)**  
-- 🌱 Learning **AI integrations** & **Cloud tools**  
-- ⚡ I love building **aesthetic frontends** + experimenting with **animations**  
-- 🎯 Motto: *“Code. Create. Innovate.”*  
+## About Me  
+
+-  Building and maintaining **full-stack applications** using **Next.js, React, Node.js**, and modern tooling  
+-  Actively working on **quantitative analysis**, **market/strategy research**, **AI-powered integrations**, and **advanced Python workflows**  
+-  Strong interest in **data analysis, financial modeling, simulations, and visual analytics**  
+-  Passionate about crafting **clean UI systems** backed by **robust logic and data-driven insights**  
+-  Focus: *Design with intent. Build with depth. Scale with clarity.*
 
 ---
 
