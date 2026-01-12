@@ -8,7 +8,8 @@
 <h3 align="center">🚀 Developer | 💡 Learner | 🎨 Creative Coder</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  <br/>
   Welcome to my GitHub profile!
 </p>
 
@@ -20,19 +21,19 @@
 - Actively working on **quantitative analysis**, **market/strategy research**, **AI-powered integrations**, and **advanced Python workflows**  
 - Strong interest in **data analysis, financial modeling, simulations, and visual analytics**  
 - Passionate about crafting **clean UI systems** backed by **robust logic and data-driven insights**  
-- Focus: *Design with intent. Build with depth. Scale with clarity.*
+- **Focus:** *Design with intent. Build with depth. Scale with clarity.*
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetx77&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=preetx77&theme=highcontrast&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=preetx77&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=preetx77&theme=highcontrast&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetx77&layout=compact&theme=radical&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetx77&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -49,29 +50,38 @@
 
 ---
 
+## 📈 Contribution Activity  
+
+[![Preet’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=preetx77&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🚀 Project Metrics & Impact  
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/preetx77?template=classic&base.header=0&base.metadata=0&repositories=true&repositories.forks=true&repositories.stars=true&languages=true" width="90%"/>
+  <img
+    src="https://metrics.lecoq.io/preetx77?template=classic&base.header=0&base.metadata=0&repositories=true&repositories.forks=true&repositories.stars=true&languages=true"
+    width="90%"
+  />
 </p>
 
 ---
 
 ## 📌 Featured Work  
 
-- 📊 **Quant Strategy & Backtesting** – Market simulations, Monte Carlo analysis, risk metrics  
-- 🌐 **Full-Stack Dashboards** – Next.js applications with API integrations and analytics  
-- 🤖 **AI & Automation Tools** – Python-based data pipelines and intelligent workflows  
+- 📊 **Quant Strategy & Backtesting** — Monte Carlo simulations, risk metrics, performance analysis  
+- 🌐 **Full-Stack Dashboards** — Next.js apps with APIs, analytics, and data pipelines  
+- 🤖 **AI & Automation Tools** — Python-based ingestion, processing, and intelligent workflows  
 
 ---
 
 ## 🎨 Extras  
 
-- 💻 **Profile Views**  
-  ![Profile Views](https://komarev.com/ghpvc/?username=preetx77&color=blueviolet&style=flat-square)
+### 💻 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=preetx77&color=blueviolet&style=flat-square)
 
-- ✨ **Random Dev Quote**  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✨ Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
