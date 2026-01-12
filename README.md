@@ -62,7 +62,8 @@
 
 ## 🔥 3D Contribution Graph
 <p align="center">
-  <img src="https://github-readme-3d-activity-graph.vercel.app/graph?username=preetx77&theme=radical&hide_border=true" alt="3D GitHub Activity Graph" width="90%"/>
+ ![Metrics](https://metrics.lecoq.io/preetx77?template=classic&base.header=0&base.metadata=0&repositories.forks=true&repositories.stars=true&repositories=true&languages=true)
+
 </p>
 
   
