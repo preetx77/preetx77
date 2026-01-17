@@ -56,14 +56,6 @@
 
 ---
 
-## 🚀 Project Metrics & Impact  
-
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/preetx77?template=classic&base.header=0&base.metadata=0&repositories=true&repositories.forks=true&repositories.stars=true&languages=true"
-    width="90%"
-  />
-</p>
 
 ---
 
