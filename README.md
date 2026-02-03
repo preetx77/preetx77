@@ -21,7 +21,7 @@
 - Actively working on **quantitative analysis**, **market/strategy research**, **AI-powered integrations**, and **advanced Python workflows**  
 - Strong interest in **data analysis, financial modeling, simulations, and visual analytics**  
 - Passionate about crafting **clean UI systems** backed by **robust logic and data-driven insights**  
-- **Focus:** *Design with intent. Build with depth. Scale with clarity.*
+  
 
 ---
 
