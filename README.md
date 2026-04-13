@@ -18,7 +18,6 @@
 
 - 📊 Building **quantitative finance tools** — GARCH volatility models, NLP-driven sentiment forecasters, and sector scoring engines
 - 🤖 Integrating **FinBERT + GARCH-X** to model how news sentiment drives gold futures volatility
-- 🧪 Interning in **financial engineering** (Calchas Capital, Singapore) and **behavioral systems research** (NUS Psychology collaboration)
 - 🌐 Also ship full-stack apps — **Flask, Streamlit, React, Flutter** — with real data pipelines underneath
 - ⚔️ Active on **Codeforces** ([roninXD](https://codeforces.com/profile/roninXD) · Rating: **775**) — sharpening DSA fundamentals daily
 
