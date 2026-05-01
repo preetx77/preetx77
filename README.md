@@ -16,10 +16,10 @@
 
 ## 🌟 About Me
 
-- 📊 Building **quantitative finance tools** — GARCH volatility models, NLP-driven sentiment forecasters, and sector scoring engines
+- 📊 Building **quantitative finance tools**  : GARCH volatility models, NLP-driven sentiment forecasters, and sector scoring engines
 - 🤖 Integrating **FinBERT + GARCH-X** to model how news sentiment drives gold futures volatility
-- 🌐 Also ship full-stack apps — **Flask, Streamlit, React, Flutter** — with real data pipelines underneath
-- ⚔️ Active on **Codeforces** ([roninXD](https://codeforces.com/profile/roninXD) · Rating: **775**) — sharpening DSA fundamentals daily
+- 🌐 Also ship full-stack apps — **Flask, Streamlit, React, Flutter** : with real data pipelines underneath
+- ⚔️ Active on **Codeforces** ([roninXD](https://codeforces.com/profile/roninXD) · Rating: **775**) : sharpening DSA fundamentals daily
 
 ---
 
