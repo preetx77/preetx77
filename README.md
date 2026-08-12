@@ -26,9 +26,9 @@
 
 I build systems that sit at the intersection of **quantitative finance**, **NLP**, and **real-time data engineering** — then wrap them in clean, usable products.
 
-- 📈 Designing **volatility & sentiment models** — GARCH-X pipelines fused with FinBERT-scored news sentiment
+- 📈 Designing **volatility & sentiment models** :  GARCH-X pipelines fused with FinBERT-scored news sentiment
 - 🛰️ Building **real-time market surveillance systems** that watch exchange filings and turn insider activity into actionable signals
-- 🩺 Shipping **full-stack applications** end-to-end — Flask, React, Streamlit, Flutter, Firebase, computer vision — with real data underneath, not just mockups
+- 🩺 Shipping **full-stack applications** end-to-end : Flask, React, Streamlit, Flutter, Firebase, computer vision , with real data underneath, not just mockups
 - 🔬 Currently exploring: multi-factor scoring engines, regime-switching risk models, and production-grade signal pipelines
 
 ---
